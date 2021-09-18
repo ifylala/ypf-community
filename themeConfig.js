@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: 'YPF', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    appLogoImage: require('@/assets/images/logo/logo11.png'), // Will update logo in navigation menu (Branding)
+    appLogoImage: require('@/assets/images/logo/favicon2.png'), // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
