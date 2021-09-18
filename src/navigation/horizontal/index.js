@@ -1,3 +1,4 @@
+/* eslint-disable eol-last */
 /*
 
 NOTE: tag is not supported in horizontal menu
@@ -32,4 +33,4 @@ import chartsAndMaps from './charts-and-maps'
 import others from './others'
 
 // Array of sections
-export default [...dashboard, ...apps, ...uiElements, ...formAndTable, ...pages, ...chartsAndMaps, ...others]
+export default [...dashboard, ...apps, ...chartsAndMaps, ...others]

@@ -10,8 +10,8 @@
       <span class="d-none d-sm-inline-block">, All rights Reserved</span>
     </span>
 
-    <span class="float-md-right d-none d-md-block">Designed by YPF Media Team 
-     <!--  <feather-icon
+    <span class="float-md-right d-none d-md-block">Designed by YPF Media Team
+      <!--  <feather-icon
         icon="HeartIcon"
         size="21"
         class="text-danger stroke-current"
